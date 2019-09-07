@@ -1,8 +1,7 @@
 # Welcome to H2Testing 👋
-![Version](https://img.shields.io/badge/version-1.0-SNAPSHOT-blue.svg?cacheSeconds=2592000)
 [![Twitter: maikoncanuto](https://img.shields.io/twitter/follow/maikoncanuto.svg?style=social)](https://twitter.com/maikoncanuto)
 
-> Projeto com configuração base para execução de testes unitários com banco H2
+> Project with base configuration for execution of unit tests with bank H2
 
 ## Install
 
