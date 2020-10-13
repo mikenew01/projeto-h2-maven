@@ -17,7 +17,7 @@
 
         <hibernate-entitymanager.version>5.2.4.Final</hibernate-entitymanager.version>
         <h2database.version>1.4.199</h2database.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.18.8</lombok.version>
     </properties>
 
