@@ -16,7 +16,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <hibernate-entitymanager.version>5.2.4.Final</hibernate-entitymanager.version>
-        <h2database.version>1.4.199</h2database.version>
+        <h2database.version>2.1.210</h2database.version>
         <junit.version>4.12</junit.version>
         <lombok.version>1.18.8</lombok.version>
     </properties>
